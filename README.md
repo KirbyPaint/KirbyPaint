@@ -1,6 +1,10 @@
-### Hi there 👋
+### 👋 I'm KirbyPaint (Ash)
+### 😄 Pronouns: she/her
+### 💬 Ask me about my D&D projects!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirbyPaint&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KirbyPaint/KirbyPaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
