@@ -7,8 +7,6 @@
   <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-GR&layout=compact&theme=dracula" width="44%"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **KirbyPaint/KirbyPaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
