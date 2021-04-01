@@ -3,6 +3,9 @@
 ### 💬 Ask me about my D&D projects!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirbyPaint&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-GR&layout=compact&theme=dracula" width="44%"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint)](https://github.com/anuraghazra/github-readme-stats)
 
