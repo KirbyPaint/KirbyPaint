@@ -6,6 +6,7 @@
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=KirbyPaint&show_icons=true&count_private=true&theme=radical" width="53%" /><img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint&layout=compact&theme=radical" width="44%"/>
 </div>
 
+<div img style="center">
 <code>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="csharp" width="30" />
 </code>
@@ -21,6 +22,7 @@
 <code>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="csharp" width="30" />
 </code>
+</div>
 
 <!--
 **KirbyPaint/KirbyPaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
