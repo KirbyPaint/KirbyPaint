@@ -2,7 +2,7 @@
 
 ### Currently working on:
 <img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30">  
-Beat Maker: A web-based application that allows the user to generate their own custom Beat Saver maps.  
+Beat Maker: A web-based application that allows the user to generate their own custom Beat Saber maps.  
 Built as my independent capstone project at Epicodus.
 
 <hr>
