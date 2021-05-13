@@ -6,7 +6,7 @@
 
 <div img style="center">
 <code>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="csharp" width="30" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cplusplus" width="30" />
 </code>
 
 <code>
@@ -14,13 +14,15 @@
 </code>
 
 <code>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="csharp" width="30" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="30" />
 </code>
 
 <code>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="csharp" width="30" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="30" />
 </code>
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KirbyPaint&repo=beat-maker)](https://github.com/KirbyPaint/beat-maker)
 
 <!--
 **KirbyPaint/KirbyPaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
