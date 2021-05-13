@@ -5,6 +5,8 @@
 Beat Maker: A web-based application that allows the user to generate their own custom Beat Saver maps.  
 Built as my independent capstone project at Epicodus.
 
+<hr>
+
 <div>
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=KirbyPaint&show_icons=true&count_private=true&theme=radical" width="53%" /><img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint&layout=compact&theme=radical" width="44%"/>
 </div>
@@ -26,6 +28,8 @@ Built as my independent capstone project at Epicodus.
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="30" />
 </code>
 </div>
+
+<hr>
 
 ### Check Out My:  
 <a href="https://github.com/KirbyPaint/ToDoList_Search">MVC Search</a>: Code to instruct a user how to implement a search bar in an ASP.NET MVC application.  
