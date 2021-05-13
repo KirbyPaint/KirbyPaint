@@ -34,7 +34,7 @@ Built as my independent capstone project at Epicodus.
 ### Check Out My:  
 <a href="https://github.com/KirbyPaint/ToDoList_Search">MVC Search</a>: Code to instruct a user how to implement a search bar in an ASP.NET MVC application.  
 <a href="https://github.com/KirbyPaint/MessageBoard.Solution">MessageBoard API</a>: API built for educational purposes. Features full CRUD/RESTful routing, and fully tested. Built with <a href="https://github.com/Lo-GR">Lo-GR</a>.  
-<a href="https://github.com/KirbyPaint/EC-W4-pig-dice">Pig Dice</a>: Browser version of the game "Pig Dice". Completely playable, and beautifully-styled by <a href="https://github.com/mekinsie">mekinsie</a>. <a href="https://mekinsie.github.io/pig-dice/">Play it in the browser here!</a> 
+<a href="https://github.com/KirbyPaint/EC-W4-pig-dice">Pig Dice</a>: Browser version of the game "Pig Dice". Completely playable, and beautifully-styled by <a href="https://github.com/mekinsie">mekinsie</a> - <a href="https://mekinsie.github.io/pig-dice/">Play it in the browser here!</a>  
 <a href="https://github.com/KirbyPaint/NationalParksAPI.Solution">National Parks API</a>: Project built at Epicodus to demonstrate building and documenting an API. Features my best README to date.  
 
 ### And for that most special day of the week...
