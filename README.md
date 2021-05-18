@@ -38,7 +38,7 @@ Built as my independent capstone project at Epicodus.
 <a href="https://github.com/KirbyPaint/NationalParksAPI.Solution">National Parks API</a>: Project built at Epicodus to demonstrate building and documenting an API. Features my best README to date.  
 
 ### And for that most special day of the week...
-<a href="https://github.com/KirbyPaint/wednesday">It Is WEDNESDAY My Dudes!</a> Happy Wednesday!  
+<a href="https://kirbypaint.github.io/wednesday/">It Is WEDNESDAY My Dudes!</a> Happy Wednesday!  
 
 ### Open for Work  
 Note: all projects tagged with Epicodus were built in a learning environment. Not all projects are complete or representative of professional-grade work.
