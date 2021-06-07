@@ -1,11 +1,11 @@
 ### 👋 I'm KirbyPaint (Ash) | 😄 Pronouns: she/her | 💬 Ask me about my D&D projects!
 
-### Currently working on:
+<!-- ### Currently working on:
 <img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30"><img src="https://cdn.discordapp.com/attachments/799876599372840964/842447775345410088/rednote.png" alt="rednote" width="30"><img src="https://media.discordapp.net/attachments/799876599372840964/842448420555063356/bluenote.png" alt="bluenote" width="30">  
 <a href="https://github.com/KirbyPaint/beat-maker">Beat Maker</a>: A web-based application that allows the user to generate their own custom Beat Saber maps.  
-Built as my independent capstone project at Epicodus.
+Built as my independent capstone project at Epicodus. -->
 
-<hr>
+<!-- <hr> -->
 
 <div>
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=KirbyPaint&show_icons=true&count_private=true&theme=radical" width="53%" /><img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint&layout=compact&theme=radical" width="44%"/>
@@ -29,6 +29,11 @@ Built as my independent capstone project at Epicodus.
 </code>
 </div>
 
+<hr>
+Certificates:
+<ul>
+  <li><a href="https://www.udemy.com/course/nestjs-zero-to-hero/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a></li>  
+</ul>
 <hr>
 
 ### Check Out My:  
