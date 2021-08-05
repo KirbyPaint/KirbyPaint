@@ -32,7 +32,9 @@ Built as my independent capstone project at Epicodus. -->
 <hr>
 Certificates:
 <ul>
-  <li><a href="https://www.udemy.com/course/nestjs-zero-to-hero/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a></li>  
+  <li><a href="https://www.epicodus.com/">Epicodus Certificate of Completion - Web and Mobile Development</a></li>  
+  <li><a href="https://www.udemy.com/certificate/UC-8724cd6f-690c-4a7e-ab24-1971b5de97a9/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a></li>  
+  <li><a href="https://www.udemy.com/certificate/UC-31a94257-fe7c-414e-b05c-4966db06c816/">GraphQL Apollo Server with Node.js, MongoDB - GraphQL API</a></li>  
 </ul>
 <hr>
 
