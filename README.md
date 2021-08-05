@@ -47,8 +47,7 @@ Certificates:
 
 ### And for that most special day of the week...
 <a href="https://kirbypaint.github.io/wednesday/">It Is WEDNESDAY My Dudes!</a> Happy Wednesday!  
-
-### Open for Work  
+ 
 Note: all projects tagged with Epicodus were built in a learning environment. Not all projects are complete or representative of professional-grade work.
 
 <!--
