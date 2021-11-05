@@ -1,3 +1,5 @@
+<img style="display:inline-block" src="https://media.discordapp.net/attachments/799876599372840964/906325704617132072/IMG_9383.JPG" width="30%"/>
+
 ### 👋 I'm KirbyPaint (Ash)<br>
 💻 Software Developer at EyeCue Lab<br>
 😄 Pronouns: she/her<br>
