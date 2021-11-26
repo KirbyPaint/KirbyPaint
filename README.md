@@ -25,6 +25,11 @@
 <code>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="30" />
 </code>
+
+<code>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="30" />
+</code>
+
 </div>
 
 <hr>
