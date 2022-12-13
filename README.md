@@ -40,6 +40,7 @@ Certificates:
   <li><a href="https://www.udemy.com/certificate/UC-8724cd6f-690c-4a7e-ab24-1971b5de97a9/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a></li> 
   <li><a href="https://www.udemy.com/certificate/UC-31a94257-fe7c-414e-b05c-4966db06c816/">GraphQL Apollo Server with Node.js, MongoDB - GraphQL API</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-1d95eae4-cba6-46ff-b476-a8d6d4ffe442/">The Git & Github Bootcamp</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-535d2c24-e8aa-47f9-8301-934b901e6171/">The Linux Command Line Bootcamp: Beginner To Power User</a></li>
   <li><a href="https://www.hackerrank.com/certificates/26781d7b508b">Problem Solving (Basic) - HackerRank</a></li>
 </ul>
 <hr>
