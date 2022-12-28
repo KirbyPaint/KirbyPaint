@@ -10,7 +10,7 @@
 </div>
 -->
 
-<div img style="center">
+<!-- <div img style="center">
 <code>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cplusplus" width="30" />
 </code>
@@ -31,7 +31,7 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="30" />
 </code>
 
-</div>
+</div> -->
 
 <hr>
 Certificates:
