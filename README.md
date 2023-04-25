@@ -3,7 +3,6 @@
 😄 Pronouns: she/her<br>
 💬 Ask me about my D&D projects!
 
-<hr>
 <!--
 <div>
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=KirbyPaint&show_icons=true&count_private=true&theme=radical" width="53%" /><img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyPaint&layout=compact&theme=radical" width="44%"/>
@@ -44,15 +43,6 @@ Certificates:
   <li><a href="https://www.hackerrank.com/certificates/26781d7b508b">Problem Solving (Basic) - HackerRank</a></li>
 </ul>
 <hr>
-
-### Check Out My: 
-<a href="https://tether-internship-client.herokuapp.com/login">Tether</a>: An application built during a 7-week internship at EyeCue Lab, coded with <a href="https://github.com/andyL89/andyL89">Andy Lawson</a>.  
-<a href="https://github.com/KirbyPaint/ToDoList_Search">MVC Search</a>: Code to instruct a user how to implement a search bar in an ASP.NET MVC application.  
-<a href="https://github.com/KirbyPaint/EC-W4-pig-dice">Pig Dice</a>: Browser version of the game "Pig Dice". Completely playable, and beautifully-styled by <a href="https://github.com/mekinsie">mekinsie</a> - <a href="https://mekinsie.github.io/pig-dice/">Play it in the browser here!</a>  
-<a href="https://github.com/KirbyPaint/NationalParksAPI.Solution">National Parks API</a>: Project built at Epicodus to demonstrate building and documenting an API. Features my best README to date.  
-
-### And for that most special day of the week...
-<a href="https://kirbypaint.github.io/wednesday/">It Is WEDNESDAY My Dudes!</a> Happy Wednesday!  
 <!--
 **KirbyPaint/KirbyPaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
