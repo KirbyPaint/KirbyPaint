@@ -1,5 +1,5 @@
 ### 👋 I'm KirbyPaint (Ash)<br>
-💻 Software Developer at EyeCue Lab<br>
+<!-- 💻 Software Developer at EyeCue Lab<br> -->
 😄 Pronouns: she/her<br>
 💬 Ask me about my D&D projects!
 
