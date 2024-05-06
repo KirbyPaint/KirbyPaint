@@ -1,6 +1,7 @@
 ### 👋 I'm KirbyPaint (Ash)<br>
 <!-- 💻 Software Developer at EyeCue Lab<br> -->
 😄 Pronouns: she/her<br>
+🔗 Check out my [Profile Page](https://kirbypaint-github-io.vercel.app/)<br>
 💬 Ask me about my D&D projects!
 
 <!--
